@@ -12,7 +12,7 @@ If you know of useful links or tutorials that you think should be added here, pl
  
  ___
 
-#### 1. Getting started with R
+### 1. Getting started with R
 
  1.1. **[What is R?](https://www.r-project.org/about.html)** The R-Project home page
  

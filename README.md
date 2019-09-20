@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to NIVArrr!
 
-You can use the [editor on GitHub](https://github.com/NIVANorge/NIVArrr/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This page gathers together useful links and tutorials to help NIVA staff perform data analysis using the [R programming language](https://www.r-project.org/about.html). Whether you're an experience R user or just getting to grips with programming for the first time, we hope you'll find something here to help/interest you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contributing
 
-### Markdown
+If you know of useful links or tutorials that you think should be added here, please either [submit a pull request](https://github.com/NIVANorge/NIVArrr/pulls) or contact one of the project administrators ([Raoul Wolf](mailto:Raoul.Wolf@niva.no), [Dag Hjermann](mailto:Dag.Hjermann@niva.no), [Ciarán Murray](mailto:CJM@niva-dk.dk) or [James Sample](mailto:james.sample@niva.no)).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contents
 
-```markdown
-Syntax highlighted code block
+ 1. [Getting started with R]()
 
-# Header 1
-## Header 2
-### Header 3
+#### 1. Getting started with R
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NIVANorge/NIVArrr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 1.1. **[What is R?](https://www.r-project.org/about.html)**. The R-Project home page
+ 
+ 1.2. **[Installing R and R-Studio at NIVA]()**. Maybe add Raoul's recent Faglunsj PowerPoint to e.g. GoogleDrive as a PDF ans link it here?
+ 
+ 1.3. **[Using NIVA's Data Science Toolkit](https://github.com/NIVANorge/niva_datasci_toolkit)**. Only accessible to member of the NIVA-Norge GitHub account. A coud-based platform for data science built around JupyterLab, Python, R and Julia

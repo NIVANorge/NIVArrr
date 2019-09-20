@@ -18,4 +18,4 @@ If you know of useful links or tutorials that you think should be added here, pl
  
  1.2. **[Installing R and R-Studio at NIVA](https://github.com/NIVANorge/NIVArrr/blob/master/pdf/raoul_w_faglunsj_r.pdf)**. Raoul's Faglunsj guide to installing R and R studio locally on a NIVA computer
  
- 1.3. **[Using NIVA's Data Science Toolkit](https://github.com/NIVANorge/niva_datasci_toolkit)**. (*Only accessible to members of the NIVA-Norge GitHub organisation*). A cloud-based platform for data science built around JupyterLab, Python, R and Julia
+ 1.3. **[Using NIVA's Data Science Toolkit](https://jupyterhub.niva.no)**. (*Only accessible to members of the NIVA-Norge GitHub organisation*). A cloud-based platform for data science built around JupyterLab, Python, R and Julia

@@ -16,6 +16,6 @@ If you know of useful links or tutorials that you think should be added here, pl
 
  1.1. **[What is R?](https://www.r-project.org/about.html)**. The R-Project home page
  
- 1.2. **[Installing R and R-Studio at NIVA]()**. Maybe add Raoul's recent Faglunsj PowerPoint to e.g. GoogleDrive as a PDF ans link it here?
+ 1.2. **[Installing R and R-Studio at NIVA](https://github.com/NIVANorge/NIVArrr/blob/master/pdf/raoul_w_faglunsj_r.pdf)**. Raoul's guide to installing R and R studio locally on a NIVA computer
  
  1.3. **[Using NIVA's Data Science Toolkit](https://github.com/NIVANorge/niva_datasci_toolkit)**. Only accessible to member of the NIVA-Norge GitHub account. A coud-based platform for data science built around JupyterLab, Python, R and Julia

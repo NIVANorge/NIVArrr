@@ -8,7 +8,9 @@ If you know of useful links or tutorials that you think should be added here, pl
 
 ### Contents
 
- 1. [Getting started with R]()
+ 1. [Getting started with R](https://github.com/NIVANorge/NIVArrr/blob/master/README.md#1-getting-started-with-r)
+ 
+ ___
 
 #### 1. Getting started with R
 

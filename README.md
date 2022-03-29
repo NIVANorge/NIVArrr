@@ -4,7 +4,7 @@ This page gathers together useful links and tutorials to help NIVA staff perform
 
 ### Contributing
 
-If you know of useful links or tutorials that you think should be added here, please either [submit a pull request](https://github.com/NIVANorge/NIVArrr/pulls) or contact one of the project administrators ([Raoul Wolf](mailto:Raoul.Wolf@niva.no), [Dag Hjermann](mailto:Dag.Hjermann@niva.no), [Ciarán Murray](mailto:CJM@niva-dk.dk) or [James Sample](mailto:james.sample@niva.no)).
+If you know of useful links or tutorials that you think should be added here, please either [submit a pull request](https://github.com/NIVANorge/NIVArrr/pulls) or contact one of the project administrators ([Dag Hjermann](mailto:Dag.Hjermann@niva.no), [Ciarán Murray](mailto:CJM@niva-dk.dk) or [James Sample](mailto:james.sample@niva.no)).
 
 ### Contents
 

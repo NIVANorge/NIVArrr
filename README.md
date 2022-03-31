@@ -29,4 +29,20 @@ If you know of useful links or tutorials that you think should be added here, pl
 * [RSeek](https://rseek.org/) - Google tailored for R searches. Searches in StackOverflow, R packages etc. Brilliant.    
 * [Stack overflow](https://stackoverflow.com/questions/tagged/r) - Include `[r]` when you search, in order to avoid answers about Python, Javascript etc.  
 * [CRAN packages](https://cran.r-project.org/) - select "Packages" in the left margin. Search using Ctrl+F   
-* [Dag's Googledocs](https://docs.google.com/document/d/146IAr0Z6b19w4mRjtvTd-9_3hvY5n-bNIn4v5T3aw2E/edit) - If I google something and I find an answer, I usually note it down here. And I google *a lot*.   
+* [Dag's Googledocs](https://docs.google.com/document/d/146IAr0Z6b19w4mRjtvTd-9_3hvY5n-bNIn4v5T3aw2E/edit) - If I google something and I find an answer, I usually note it down here. And I google *a lot*.
+
+### 2. R for biologists
+
+ 2.1 **Overviews of resources**  
+ 
+ * [Packages for environmental science (R Task View)](http://cran.r-project.org/web/views/Environmetrics.html   
+ * [Fishy packages](https://derekogle.com/fishR/packages)  
+
+2.2 **Packages**  
+ 
+* [oce - Oceanographic analysis](https://dankelley.github.io/oce/) - includes for instance `tidem()` for harmonic analysis of tides, `read.ctd()` for reading CTD in different formats (Seabird, WOCE, ODF, ODV), and `ctdTrim()` for locating the descent phase, and trimming data recovered before and after  
+* [pastecs - Analysis of Space-Time Ecological Series](https://cran.r-project.org/web/packages/pastecs/index.html) - In particular for marine plankton/benthic biology   
+  
+2.3 **Tools/scripts**  
+  
+* [Cleaning latin names with errors](/docs/001_adbsearch.md) - R function, with examples  

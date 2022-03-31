@@ -10,6 +10,10 @@ and returns the correct name, as well as the Artsdatabanken ID.
 #### 1. Load the function below (copy into the R console and push enter). 
 
 ```
+# We need this package
+library(XML)
+
+# Function
 adbsearch_species <- function(txt){
   txt2 <- gsub(" ", "%20", txt, fixed = TRUE)
   urlstring <- paste0("http://webtjenester.artsdatabanken.no/Artsnavnebase.asmx/Artssok?Search=", txt2)

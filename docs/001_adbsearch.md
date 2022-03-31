@@ -3,7 +3,7 @@
 This is function for cleaning species names. It utilizes the search service of Artsdatabanken (Norwegian Biodiversity Information Centre)
 and returns the correct name, as well as the Artsdatabanken ID.   
 
-![code example](pics/adbsearch_species.JPG)
+![code example](../pics/adbsearch_species.JPG)
 
 ### Usage    
 

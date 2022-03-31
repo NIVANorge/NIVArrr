@@ -1,9 +1,10 @@
 ## Cleaning latin names with errors    
 
-This is function for cleaning species names. It utilizes the search service of Artsdatabanken (Norwegian Biodiversity Information Centre)
-and returns the correct name, as well as the Artsdatabanken ID.   
+This is function for cleaning species names. You enter a name with or without spelling errors, and R returns the correct name, as well as the Artsdatabanken ID.   
 
 ![code example](../pics/adbsearch_species.JPG)
+
+How did R understand that *H. nevae* actually is *H. newae*? I don't know - this function utilizes the search service of Artsdatabanken (Norwegian Biodiversity Information Centre), so the magic happens over there.  
 
 ### Usage    
 

@@ -9,6 +9,7 @@ If you know of useful links or tutorials that you think should be added here, pl
 ### Contents
 
  1. [Getting started with R](/NIVArrr/index.html#1-getting-started-with-r)
+ 2. [R for biologists and oceanographers](/NIVArrr/index.html#2-r-for-biologists-and-oceanographers)
  
  ___
 
@@ -31,7 +32,7 @@ If you know of useful links or tutorials that you think should be added here, pl
 * [CRAN packages](https://cran.r-project.org/) - select "Packages" in the left margin. Search using Ctrl+F   
 * [Dag's Googledocs](https://docs.google.com/document/d/146IAr0Z6b19w4mRjtvTd-9_3hvY5n-bNIn4v5T3aw2E/edit) - If I google something and I find an answer, I usually note it down here. And I google *a lot*.
 
-### 2. R for biologists
+### 2. R for biologists and oceanographers
 
  2.1 **Overviews of resources**  
  

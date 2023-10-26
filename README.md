@@ -8,7 +8,7 @@ If you know of useful links or tutorials that you think should be added here, pl
 
 ### Contents
 
- 1. [Getting started with R](/NIVArrr/README.HTML#1-getting-started-with-r)
+ 1. [Getting started with R](/NIVArrr/README.html#1-getting-started-with-r)
  
  ___
 
